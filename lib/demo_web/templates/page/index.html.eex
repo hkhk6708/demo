@@ -1,5 +1,5 @@
 <div class="jumbotron">
-  <h2><%= Welcome to demo. %></h2>
+  <h2>Welcome to demo server</h2>
 </div>
 
 

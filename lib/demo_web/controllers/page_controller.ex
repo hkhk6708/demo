@@ -6,6 +6,10 @@ defmodule DemoWeb.PageController do
   end
 
   def demo(conn, %{"t" => t}) do
+  	IO.inspect 1234
+  	IO.inspect t
     render(conn, "demo.html", t: t)
   end
+
+
 end
